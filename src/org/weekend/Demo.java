@@ -45,6 +45,7 @@ public class Demo {
 		Thread.sleep(7000);
 		screenShot("afterlogin");
 	System.out.println("2nd");
+	System.out.println("3nd");
 		
 	}
 	
