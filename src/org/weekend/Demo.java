@@ -44,6 +44,10 @@ public class Demo {
 		driver.findElement(By.name("login")).click();
 		Thread.sleep(7000);
 		screenShot("afterlogin");
+	System.out.println("2nd");
 		
 	}
+	
+	
+	
 }
