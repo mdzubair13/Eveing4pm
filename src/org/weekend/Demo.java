@@ -47,6 +47,12 @@ public class Demo {
 	System.out.println("2nd");
 	
 	System.out.println("3rd");
+	
+	 int a=10;
+	if (a==20) {
+		System.out.println(a);
+	}
+	
 	}
 	
 	
