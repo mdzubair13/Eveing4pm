@@ -55,7 +55,7 @@ public class Demo {
 		System.out.println(a);
 	}
 	
-
+System.out.println("10/5");
 
 	}
 	
